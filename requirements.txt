@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+opencv-contrib-python   # optional, only if you need extra features like SIFT/SURF
+Pillow
+imagehash
+pytesseract
+yt-dlp
+python-pptx
